@@ -1,0 +1,22 @@
+syntax on
+set encoding=utf-8
+set hidden
+set number
+set title
+set mouse=a
+set nowrap
+set termguicolors
+set background=dark
+set noshowmode
+set clipboard=unnamed
+set numberwidth=1
+set showcmd
+set ruler
+set showmatch
+"set relativenumber 
+set number
+set textwidth=80 "El margen es fijado a 80 columnas
+
+
+
+let mapleader=" "
