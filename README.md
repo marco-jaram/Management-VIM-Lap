@@ -5,7 +5,8 @@
 * source ~/.vim/vim-config/1-settings-init.vim
 * source ~/.vim/vim-config/2-plugins-install.vim
 * sourse ~/.vim/vim-config/3-keymaps.vim
-##Ejecutar desde vim
+<br>
+## Ejecutar desde vim
 * :PluginInstall
 * :PluginUpdate
 * :PluginClean
